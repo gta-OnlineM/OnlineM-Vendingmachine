@@ -1,4 +1,4 @@
-<h1 align='center'>[ESX] Mycroft's Vending Machines</a></h1><p align='center'><b>GTA:Online Vending Machines Remake</b></h5>
+<h1 align='center'>[ESX] OnlineM Vending Machines</a></h1><p align='center'><b>GTA:Online Vending Machines Remake</b></h5>
 
 Thirsty but not near any shops? No worrys! With this script, you can head on over to any Vending Machine around Los Santos and Crack
 Open A can of Sprunk or eCola to make sure your needs are filled to the MAXXX!
